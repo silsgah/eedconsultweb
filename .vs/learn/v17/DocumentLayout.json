@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dotnet\\dotnet\\newbackup\\learn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{474EC25C-9F62-4E2D-ADEE-3EA2BEB7FAC8}|API\\API.csproj|e:\\dotnet\\dotnet\\newbackup\\learn\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{474EC25C-9F62-4E2D-ADEE-3EA2BEB7FAC8}|API\\API.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EC25C-9F62-4E2D-ADEE-3EA2BEB7FAC8}|API\\API.csproj|e:\\dotnet\\dotnet\\newbackup\\learn\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474EC25C-9F62-4E2D-ADEE-3EA2BEB7FAC8}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EC25C-9F62-4E2D-ADEE-3EA2BEB7FAC8}|API\\API.csproj|e:\\dotnet\\dotnet\\newbackup\\learn\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{474EC25C-9F62-4E2D-ADEE-3EA2BEB7FAC8}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E594476-1F83-49FB-9CA4-C3591B91658D}|Solution Items{0E594476-1F83-49FB-9CA4-C3591B91658D}|E:\\dotnet\\dotnet\\newbackup\\learn\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0E594476-1F83-49FB-9CA4-C3591B91658D}|Solution Items{0E594476-1F83-49FB-9CA4-C3591B91658D}|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E594476-1F83-49FB-9CA4-C3591B91658D}|Solution Items{0E594476-1F83-49FB-9CA4-C3591B91658D}|E:\\dotnet\\dotnet\\newbackup\\learn\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0E594476-1F83-49FB-9CA4-C3591B91658D}|Solution Items{0E594476-1F83-49FB-9CA4-C3591B91658D}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EC25C-9F62-4E2D-ADEE-3EA2BEB7FAC8}|API\\API.csproj|e:\\dotnet\\dotnet\\newbackup\\learn\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{474EC25C-9F62-4E2D-ADEE-3EA2BEB7FAC8}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E594476-1F83-49FB-9CA4-C3591B91658D}|Solution Items{0E594476-1F83-49FB-9CA4-C3591B91658D}|E:\\dotnet\\dotnet\\newbackup\\learn\\appsettings.docker.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E594476-1F83-49FB-9CA4-C3591B91658D}|Solution Items{0E594476-1F83-49FB-9CA4-C3591B91658D}|solutionrelative:appsettings.docker.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.docker.json",
+              "DocumentMoniker": "E:\\dotnet\\dotnet\\newbackup\\learn\\appsettings.docker.json",
+              "RelativeDocumentMoniker": "appsettings.docker.json",
+              "ToolTip": "E:\\dotnet\\dotnet\\newbackup\\learn\\appsettings.docker.json",
+              "RelativeToolTip": "appsettings.docker.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-24T10:18:45.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\dotnet\\dotnet\\newbackup\\learn\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "E:\\dotnet\\dotnet\\newbackup\\learn\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-24T10:15:19.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "E:\\dotnet\\dotnet\\newbackup\\learn\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "E:\\dotnet\\dotnet\\newbackup\\learn\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-03-24T10:09:22.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "E:\\dotnet\\dotnet\\newbackup\\learn\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "E:\\dotnet\\dotnet\\newbackup\\learn\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-24T10:06:27.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "API",
+              "DocumentMoniker": "E:\\dotnet\\dotnet\\newbackup\\learn\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "E:\\dotnet\\dotnet\\newbackup\\learn\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-24T09:52:41.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dotnet\\dotnet\\newbackup\\learn\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "E:\\dotnet\\dotnet\\newbackup\\learn\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAJYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:43:26.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\dotnet\\dotnet\\newbackup\\learn\\API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API\\appsettings.Development.json",
+              "ToolTip": "E:\\dotnet\\dotnet\\newbackup\\learn\\API\\appsettings.Development.json",
+              "RelativeToolTip": "API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T09:42:38.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
